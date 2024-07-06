@@ -21,7 +21,7 @@ This is a simple CLI (Command Line Interface) template project that demonstrates
 
    ```bash
    git clone <repository-url>
-   cd cli-template
+   cd Cli-Handler
    ```
 
 2. Install dependencies:

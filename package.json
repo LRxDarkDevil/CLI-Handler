@@ -2,7 +2,7 @@
   "dependencies": {
     "commander": "^12.1.0"
   },
-  "name": "cli-template",
+  "name": "Cli-Handler",
   "version": "1.0.0",
   "main": "cli.js",
   "bin": {
