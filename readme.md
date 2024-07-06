@@ -1,4 +1,4 @@
-# CLI Template
+# CLI Handler
 
 This is a simple CLI (Command Line Interface) template project that demonstrates how to create and register a CLI tool using Node.js and npm.
 
